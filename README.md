@@ -1,3 +1,10 @@
+ ![Live Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=300&section=header&text=Ankur%20Sharma&fontSize=47&fontColor=ffffff&animation=fadeIn)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFD1&center=true&width=800&lines=Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
+</p> 
+
+
 <h1 align="center">Hi 👋, I'm Ankur sharma</h1>
 <h3 align="center">I'm passionate cyber security Student</h3>
 
