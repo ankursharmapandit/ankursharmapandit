@@ -2,9 +2,11 @@
 ![Hacker Banner](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ankur%20Sharma&fontSize=46&fontColor=00FFCC&animation=fadeIn&color=0:020024,50:090979,100:00d4ff)
 
 
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=ff0033&center=true&width=800&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ff0033&center=true&width=850&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
 </p> 
+
 
 
 <h1 align="center">Hi 👋, I'm Ankur sharma</h1>
