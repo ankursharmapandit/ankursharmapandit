@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ff0033&center=true&width=850&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4ff&center=true&width=850&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
 </p> 
 
 
