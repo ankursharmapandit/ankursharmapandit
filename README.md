@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFD1&center=true&width=800&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=ff0033&center=true&width=800&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
 </p> 
 
 
