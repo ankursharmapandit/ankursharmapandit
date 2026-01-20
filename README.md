@@ -1,7 +1,9 @@
- ![Live Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=300&section=header&text=Ankur%20Sharma&fontSize=47&fontColor=ffffff&animation=fadeIn)
+ 
+![Hacker Banner](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Ankur%20Sharma&fontSize=46&fontColor=00FFCC&animation=fadeIn&color=0:020024,50:090979,100:00d4ff)
+
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFD1&center=true&width=800&lines=Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFD1&center=true&width=800&lines=I+AM+Ethical+Hacker;Cyber+Security+Student;Ethical+Hacker;Web+App+Tester" />
 </p> 
 
 
